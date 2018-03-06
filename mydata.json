@@ -1,5 +1,7 @@
 [
-    {"name": "Seg1", "price": 10},
-    {"name": "Seg2", "price": 5},
-    {"name": "Seg3", "price": 30}
+    
+    {"name": "Seg1", "price": 30},
+    {"name": "Seg2", "price": 50},
+    {"name": "Seg3", "price": 12}
+
 ]
